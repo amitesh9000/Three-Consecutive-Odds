@@ -1,0 +1,2 @@
+# Three-Consecutive-Odds
+gg
